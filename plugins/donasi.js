@@ -3,7 +3,6 @@ let handler =  m => m.reply(`
 │ ⬣ touch/go e wallet [01127316764]
 │ ⬣ wa.me/601127316764
 ╰────
-
 ╭─「 Donasi • Indoneia 」
 │ ⬣ Dana [088233832771
 ╰────
